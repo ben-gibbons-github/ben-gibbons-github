@@ -46,7 +46,7 @@
     <b>&gt;&gt;</b> <a href="https://bgibbonsweb.github.io/" target="_blank" rel="noopener noreferrer" style="color: #4a9eff;"><b>Live Interactive Demo</b></a>
   </p>
   <div align="center" style="margin-top: 12px;">
-    <a href="https://github.com/ben-gibbons-github/webgl-climate-globe" target="_blank" rel="noopener noreferrer">
+    <a href="https://bgibbonsweb.github.io/" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/ben-gibbons-github/webgl-climate-globe/refs/heads/main/climate_globe.png" alt="WebGL Climate Globe Preview" width="100%" style="border-radius: 4px; border: 1px solid #333;" />
     </a>
   </div>
@@ -69,7 +69,7 @@
     <b>&gt;&gt;</b> <a href="https://bgibbonsweb.github.io/" target="_blank" rel="noopener noreferrer" style="color: #4a9eff;"><b>Live Interactive Demo</b></a>
   </p>
   <div align="center" style="margin-top: 12px;">
-    <a href="https://github.com/ben-gibbons-github/webgl-energy-grid-map" target="_blank" rel="noopener noreferrer">
+    <a href="https://bgibbonsweb.github.io/" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/ben-gibbons-github/webgl-energy-grid-map/refs/heads/main/energy_grid.png" alt="Energy Grid Map Preview" width="100%" style="border-radius: 4px; border: 1px solid #333;" />
     </a>
   </div>
@@ -92,7 +92,7 @@
     <b>&gt;&gt;</b> <a href="https://ben-gibbons-github.github.io/interview-prep-roguelite-deploy/index.html" target="_blank" rel="noopener noreferrer" style="color: #4a9eff;"><b>Play Game Live</b></a>
   </p>
   <div align="center" style="margin-top: 12px;">
-    <a href="https://github.com/ben-gibbons-github/ai-interview-prep-video-game" target="_blank" rel="noopener noreferrer">
+    <a href="https://ben-gibbons-github.github.io/interview-prep-roguelite-deploy/index.html" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/ben-gibbons-github/ai-interview-prep-video-game/refs/heads/main/game.png" alt="Interview Prep Game Preview" width="100%" style="border-radius: 4px; border: 1px solid #333;" />
     </a>
   </div>
@@ -115,7 +115,7 @@
     <b>&gt;&gt;</b> <a href="https://job-finder-super.fly.dev/" target="_blank" rel="noopener noreferrer" style="color: #4a9eff;"><b>Launch Web App</b></a>
   </p>
   <div align="center" style="margin-top: 12px;">
-    <a href="https://github.com/ben-gibbons-github/ai-job-finder" target="_blank" rel="noopener noreferrer">
+    <a href="https://job-finder-super.fly.dev/" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/ben-gibbons-github/ai-job-finder/refs/heads/main/Job_Search.png" alt="AI Job Finder Preview" width="100%" style="border-radius: 4px; border: 1px solid #333;" />
     </a>
   </div>
