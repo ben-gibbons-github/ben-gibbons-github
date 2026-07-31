@@ -4,17 +4,19 @@
 
 ### Principal Software Engineer &nbsp;&nbsp;|&nbsp;&nbsp; Certified AI Engineer &nbsp;&nbsp;|&nbsp;&nbsp; Artist
 
-<img src="https://bgibbonsweb.github.io/GoldenFieldWide.png" alt="Golden Field Background" width="100%" style="border-radius: 6px; margin: 15px 0;" />
+<a href='https://bgibbonsweb.github.io/' rel="noopener noreferrer">
+  <img src="https://bgibbonsweb.github.io/GoldenFieldWide.png" alt="Golden Field Background" width="100%" style="border-radius: 6px; margin: 15px 0;" />
 
-<p>
-  <a href="https://bgibbonsweb.github.io/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-bgibbonsweb.github.io-000000?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="mailto:ben.gibbons.mail@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-ben.gibbons.mail%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+  <p>
+    <a href="https://bgibbonsweb.github.io/" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/🌐_Interactive_Portfolio-bgibbonsweb.github.io-000000?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    </a>
+    &nbsp;
+    <a href="mailto:ben.gibbons.mail@gmail.com" target="_blank" rel="noopener noreferrer">
+      <img src="https://img.shields.io/badge/Email-ben.gibbons.mail%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</a>
 
 </div>
 
@@ -43,10 +45,13 @@
     An interactive 3D WebGL planet visualization that pulls together climate-related datasets and presents them through a real-time browser interface.
   </p>
   <p>
-    <b>&gt;&gt;</b> <a href="https://bgibbonsweb.github.io/" target="_blank" rel="noopener noreferrer" style="color: #4a9eff;"><b>Live Interactive Demo</b></a>
+    <b>&gt;&gt;</b> 
+    <a href="https://bgibbonsweb.github.io/energy_grid_map/public/index" target="_blank" rel="noopener noreferrer" style="color: #4a9eff;">
+      <b>Live Interactive Demo</b>
+    </a>
   </p>
   <div align="center" style="margin-top: 12px;">
-    <a href="https://bgibbonsweb.github.io/" target="_blank" rel="noopener noreferrer">
+    <a href="https://bgibbonsweb.github.io/climate_globe/public/" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/ben-gibbons-github/webgl-climate-globe/refs/heads/main/climate_globe.png" alt="WebGL Climate Globe Preview" width="100%" style="border-radius: 4px; border: 1px solid #333;" />
     </a>
   </div>
@@ -55,7 +60,7 @@
 <!-- Project 2 -->
 <div style="background: #1a1c23; padding: 18px; border-radius: 6px; border: 1px solid #2d3139; margin-bottom: 25px;">
   <h3 style="margin-top: 0;">
-    <a href="https://github.com/ben-gibbons-github/webgl-energy-grid-map" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none;">
+    <a href="https://bgibbonsweb.github.io/energy_grid_map/public/index" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none;">
       WebGL Energy Grid Map
     </a>
   </h3>
@@ -66,10 +71,13 @@
     A futuristic, cyberpunk-styled 3D rendering of the U.S. power grid featuring interactive node tracking and high-density geospatial controls.
   </p>
   <p>
-    <b>&gt;&gt;</b> <a href="https://bgibbonsweb.github.io/" target="_blank" rel="noopener noreferrer" style="color: #4a9eff;"><b>Live Interactive Demo</b></a>
+    <b>&gt;&gt;</b> 
+    <a href="https://bgibbonsweb.github.io/energy_grid_map/public/index" target="_blank" rel="noopener noreferrer" style="color: #4a9eff;">
+      <b>Live Interactive Demo</b>
+    </a>
   </p>
   <div align="center" style="margin-top: 12px;">
-    <a href="https://bgibbonsweb.github.io/" target="_blank" rel="noopener noreferrer">
+    <a href="https://bgibbonsweb.github.io/energy_grid_map/public/index" target="_blank" rel="noopener noreferrer">
       <img src="https://raw.githubusercontent.com/ben-gibbons-github/webgl-energy-grid-map/refs/heads/main/energy_grid.png" alt="Energy Grid Map Preview" width="100%" style="border-radius: 4px; border: 1px solid #333;" />
     </a>
   </div>
