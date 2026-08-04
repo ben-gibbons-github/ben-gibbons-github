@@ -131,6 +131,32 @@
 
 <br/>
 
+<!-- Project 5: Seek3D -->
+<div style="background: #1a1c23; padding: 18px; border-radius: 6px; border: 1px solid #2d3139; margin-bottom: 25px;">
+  <h3 style="margin-top: 0;">
+    <a href="https://github.com/ben-gibbons-github/Seek3D" target="_blank" rel="noopener noreferrer" style="color: #ffffff; text-decoration: none;">
+      Seek3D — Multimodal 3D RAG Engine
+    </a>
+  </h3>
+  <p style="color: #cccccc;">
+    <b>Tech Stack &gt;&gt;</b> Python 3.12 | PyTorch | OpenCLIP | Chainlit | Vector Search | Hugging Face
+  </p>
+  <p style="color: #aaaaaa;">
+    An end-to-end 3D retrieval-augmented generation engine leveraging open-clip vision embeddings and Chainlit UI to index physical spatial geometry into vector space for sub-second natural language search across 3D mesh assets.
+  </p>
+  <p>
+    <b>&gt;&gt;</b> 
+    <a href="https://huggingface.co/spaces/bgibbons-ai/Seek3D" target="_blank" rel="noopener noreferrer" style="color: #4a9eff;">
+      <b>Launch Hugging Face Space</b>
+    </a>
+  </p>
+  <div align="center" style="margin-top: 12px;">
+    <a href="https://huggingface.co/spaces/bgibbons-ai/Seek3D" target="_blank" rel="noopener noreferrer">
+      <img src="https://raw.githubusercontent.com/ben-gibbons-github/Seek3D/main/Seek3D.png" alt="Seek3D Preview" width="100%" style="border-radius: 4px; border: 1px solid #333;" />
+    </a>
+  </div>
+</div>
+
 <!-- Section: WebGL Environments & Art Games -->
 <h2 style="border-bottom: 1px solid #333; padding-bottom: 8px; color: #ffffff;">
   <span style="color: #4a9eff; font-family: monospace; font-weight: bold;">&gt;_</span> Interactive 3D WebGL Environments & Games:
